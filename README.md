@@ -4,7 +4,7 @@
 - 🔭 I’m currently study on Hunan University
 - 🌱 I’m currently learning Java and Web development  
 - 🤔 My blog is https://liukj98.github.io/
-- Email：1795066394@qq.com
+- :email: Email：1795066394@qq.com
 
 ### 今年汇总
 
