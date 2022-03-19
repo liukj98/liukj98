@@ -1,7 +1,7 @@
 ### 你好，世界 👋
 
 
-- 🔭 I’m currently study on Hunan University
+- 🔭 I’m currently studying on Hunan University
 - 🌱 I’m currently learning Java and Web development  
 - 🤔 My blog is https://liukj98.github.io/
 - :email: Email: kejunl@hnu.edu.cn
